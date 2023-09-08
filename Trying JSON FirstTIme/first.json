@@ -1,0 +1,19 @@
+{
+    "key": "value",
+
+    "name": "Sumonta",
+    "roll": 2019831056,
+    "isStudent": true,
+    "university": null,
+
+    "subjects": ["CSE", "EEE", "BBA" ,"SWE"],
+
+    "parent" : {
+        "father": "Monto",
+        "mother": "Suma",
+        "wife" : "Promi"
+    }
+
+
+
+}
