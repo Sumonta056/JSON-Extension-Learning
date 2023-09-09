@@ -26,3 +26,5 @@
 
 * **👷‍♂️ How to Build & Publish a Chrome Extension( [👉 Click Here](https://youtu.be/gtF2nHVjqFk?t=557) )**
 
+* **😵 Create Your Chrome Extension with ChatGPT! [👉 Click Here](https://youtu.be/FkZ2xmfwQ9o?si=C00bVOHk6IBwy1gy) )**
+
