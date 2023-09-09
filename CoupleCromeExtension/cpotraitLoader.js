@@ -25,6 +25,23 @@ const ImageData = {
         "CouplePotrait/1 (23).jpeg",
         "CouplePotrait/1 (24).jpeg",
         "CouplePotrait/1 (25).jpeg",
+        "CoupleLand/2 (1).jpeg",
+        "CoupleLand/2 (2).jpeg",
+        "CoupleLand/2 (3).jpeg",
+        "CoupleLand/2 (4).jpeg",
+        "CoupleLand/2 (5).jpeg",
+        "CoupleLand/2 (6).jpeg",
+        "CoupleLand/2 (7).jpeg",
+        "CoupleLand/2 (8).jpeg",
+        "CoupleLand/2 (9).jpeg",
+        "CoupleLand/2 (10).jpeg",
+        "CoupleLand/2 (11).jpeg",
+        "CoupleLand/2 (12).jpeg",
+        "CoupleLand/2 (13).jpeg",
+        "CoupleLand/2 (14).jpeg",
+        "CoupleLand/2 (15).jpeg",
+
+
     ],
 };
 

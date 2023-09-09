@@ -81,15 +81,26 @@ body {
 
 
 .we {
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     max-width: 420px;
     width: 100%;
     padding: 20px;
     border-radius: 4px;
 
+
 }
 
+.we h2{
+    color: #5e5c5c;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 14px;
 
+}
 
 .we img {
     height: 100%;
