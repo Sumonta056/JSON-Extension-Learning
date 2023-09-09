@@ -28,3 +28,12 @@
 
 * **😵 Create Your Chrome Extension with ChatGPT! [👉 Click Here](https://youtu.be/FkZ2xmfwQ9o?si=C00bVOHk6IBwy1gy) )**
 
+
+
+#### 3️⃣ Phase 3
+
+* **🛫 How to fetch data stored in a json file | Read with javascript local json file ( [👉 Tutorial](https://youtu.be/o6bLYYStZss?si=qQMqfnCyn27l_98P) )**
+    * **📽️ Project Code ( [👉 Click Here](https://digitalfox-tutorials.com/tutorial.php?title=Fetch-data-stored-in-a-json-file-with-JavaScript) )**
+   
+
+
