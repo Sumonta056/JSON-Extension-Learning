@@ -30,7 +30,7 @@ const ImageData = {
 
 // Get references to the elements
 const imageElement = document.getElementById('usImage');
-const changeImageButton = document.getElementById('changeImage');
+
 
 // Function to load a random image
 function loadRandomImage() {

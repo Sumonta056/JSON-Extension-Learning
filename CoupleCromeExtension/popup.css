@@ -28,12 +28,8 @@ body {
     gap: 21px;
     max-width: 400px;
     width: 100%;
-    border-radius: 12px;
     padding: 20px;
-    -webkit-border-radius: 12px;
-    -moz-border-radius: 12px;
-    -ms-border-radius: 12px;
-    -o-border-radius: 12px;
+    border-radius: 12px;
 }
 
 .card {
@@ -100,7 +96,6 @@ body {
     width: 100%;
     object-fit: cover;
     box-shadow: 10px 10px 48px 0px rgba(0, 0, 0, 0.56);
-    -webkit-box-shadow: 10px 10px 48px 0px rgba(0, 0, 0, 0.56);
-    -moz-box-shadow: 10px 10px 48px 0px rgba(0, 0, 0, 0.56);
+    
 
 }
