@@ -1,5 +1,5 @@
 
-
+![](/Images/whyJSON.gif)
 
 # 😀 JSON = JavaScript Object Notation
 
