@@ -37,6 +37,10 @@ const ProfileData = {
         "Profile/1 (35).jpeg",
         "Profile/1 (36).jpeg",
         "Profile/1 (37).jpg",
+        "Profile/1 (41).jpeg",
+        "Profile/1 (42).jpeg",
+        "Profile/1 (43).jpeg",
+        "Profile/1 (44).jpg",
     ],
 };
 
