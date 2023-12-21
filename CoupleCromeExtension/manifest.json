@@ -1,20 +1,14 @@
 {
-    "name": "CUTU",
-    "version": "1.0.0",
-    "manifest_version": 2,
-    "browser_action": {
-        "default_icon": "Icon/icon1.png",
-        "default_popup": "popup.html"
-    },
-
-    "icons": {
-        "32": "Icon/icon3.png",
-        "64": "Icon/icon2.png",
-        "128": "Icon/icon1.png"
-    },
-
-    "permissions": [
-        "activeTab"
-    ]
-
+  "name": "CUTU",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "32": "Icon/icon3.png",
+    "48": "Icon/icon2.png",
+    "128": "Icon/icon1.png"
+  },
+  "permissions": ["activeTab"]
 }

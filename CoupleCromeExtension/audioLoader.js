@@ -17,16 +17,17 @@ const AudioData = {
     "audio/Mohombi.mp3",
     "audio/Kya Baat Ay.mp3",
     "audio/Copines.mp3",
-    "audio/Kiya Kiya.mp3",  
+    "audio/Kiya Kiya.mp3",
   ],
 };
-
 
 var audio;
 
 document.querySelector("#play").addEventListener("click", function () {
   if (audio == undefined) {
     playAudio();
+
+    document.getElementById("greeting").style.display = "block";
   } else {
     audio.pause();
     playAudio();
@@ -39,22 +40,14 @@ document.querySelector("#stop").addEventListener("click", function () {
   }
 });
 
-
-
-
-
-
-
 function playAudio() {
-
   const Audios = AudioData.Audios;
   const randomIndex = Math.floor(Math.random() * Audios.length);
-  const randomAudio =Audios[randomIndex];
-  
+  const randomAudio = Audios[randomIndex];
+
   console.log(randomAudio);
 
   text = randomAudio;
   audio = new Audio(text);
   audio.play();
 }
-
